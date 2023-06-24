@@ -1,7 +1,7 @@
 {
 	"depoimento": [
 		{
-			"description": "<strong><span style=\"color: #a5d6ff; font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; font-style: normal; white-space-collapse: preserve; background-color: rgba(46, 160, 67, 0.15);\">Primeiro &eacute; o atendimento, aten&ccedil;&atilde;o </span><span class=\"x x-first x-last\" style=\"border-radius: 0.2em; color: var(--color-diff-blob-addition-fg); background-color: var(--color-diff-blob-addition-word-bg); font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; font-style: normal; white-space-collapse: preserve;\">foi</span><span style=\"color: #a5d6ff; font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; font-style: normal; white-space-collapse: preserve; background-color: rgba(46, 160, 67, 0.15);\"> sensacional. &Oacute;timo trabalho.</span></strong>",
+			"description": "Primeiro é o atendimento, atenção foi sensacional. Ótimo trabalho.",
 			"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@304bfc2570f2ad399cf4e11bbf2409bf54ffcdff/images/eu%20tennis.jpg",
 			"nome": "Thiago",
 			"instagram": "@thiagohumble"
