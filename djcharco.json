@@ -44,9 +44,10 @@
 		],
 		[
 			{
-				"foto": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample3.jpg",
-				"nome": " asdfsadf",
-				"instagram": " LIttleSnippets.net"
+				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@2108df9b580bc200e7a84b498cb723dac67e17eb/images/Taissa%20Gatona.png",
+				"nome": "Larissa",
+				"instagram": "@maga",
+				"description": "asdfasdfsdfs asdfas sadf asdf  asdfasdf as"
 			}
 		]
 	]
