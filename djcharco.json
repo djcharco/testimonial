@@ -1,21 +1,17 @@
 {
 	"depoimento": [
-		[
-			{
-				"description": "Primeiro é o atendimento, atenção foi sensacional. Ótimo trabalho.",
-				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@304bfc2570f2ad399cf4e11bbf2409bf54ffcdff/images/eu%20tennis.jpg",
-				"nome": "Thiago",
-				"instagram": "@thiagohumble"
-			}
-		],
-		[
-			{
-				"description": "Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo.Viva Forevis aptent taciti sociosqu ad litora torquent.Detraxit consequat et quo num tendi nada.Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
-				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@b7618fbf0f6f3e041dfbb4a58d36887865c3e553/images/IMG_4695.jpeg",
-				"nome": "Thiago",
-				"instagram": "@thiagohumble"
-			}
-		],
+		{
+			"description": "Primeiro é o atendimento, atenção foi sensacional. Ótimo trabalho.",
+			"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@304bfc2570f2ad399cf4e11bbf2409bf54ffcdff/images/eu%20tennis.jpg",
+			"nome": "Thiago",
+			"instagram": "@thiagohumble"
+		},
+		{
+			"description": "Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo.Viva Forevis aptent taciti sociosqu ad litora torquent.Detraxit consequat et quo num tendi nada.Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
+			"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@b7618fbf0f6f3e041dfbb4a58d36887865c3e553/images/IMG_4695.jpeg",
+			"nome": "Thiago",
+			"instagram": "@thiagohumble"
+		},
 		{
 			"description": "Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo.Viva Forevis aptent taciti sociosqu ad litora torquent.Detraxit consequat et quo num tendi nada.Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
 			"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@b7618fbf0f6f3e041dfbb4a58d36887865c3e553/images/IMG_4695.jpeg",
