@@ -1,25 +1,4 @@
 {
-	"depoimento": [
-		[
-			{
-				"description": "Primeiro é o atendimento, atenção foi sensacional. Ótimo trabalho.",
-				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@304bfc2570f2ad399cf4e11bbf2409bf54ffcdff/images/eu%20tennis.jpg",
-				"nome": "Thiago",
-				"instagram": "@thiagohumble"
-			},
-			{
-				"description": "asdfasdfasdfasdf",
-				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@fb32b422c922abfb8528436a4c0fd537e84da4bf/images/YoutubeCard.png",
-				"nome": "Lilith",
-				"instagram": "@diablo4"
-			},
-			{
-				"description": "asdfasdfasdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasd fasdfasdfasdfasdfasdfasdfasdf",
-				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@fb32b422c922abfb8528436a4c0fd537e84da4bf/images/YoutubeCard.png",
-				"nome": "Lilith",
-				"instagram": "@diablo4"
-			}
-		],		
 	"header": {
 		"whats": "(11) 98704-6930",
 		"phone": [
@@ -32,14 +11,30 @@
 		]
 	},
 	"banner2": [
-		"Utilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.",
-		"Utilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.",
-		"Utilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ."
+		"\n\t\t\t\t\t\t\t\t\tUtilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.\n\t\t\t\t\t\t\t\t",
+		"\n\t\t\t\t\t\t\t\t\tUtilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.\n\t\t\t\t\t\t\t\t",
+		"\n\t\t\t\t\t\t\t\t\tUtilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.\n\t\t\t\t\t\t\t\t"
 	],
 	"banner1": [
-		"Charco & Jr Eventos é uma empresa de dj, som e iluminação, feita sob medida para atender seus fiéis clientes de forma diferenciada e personalizada, sempre preocupada com todos os detalhes, individualizando-o em um estreito relacionamento, satisfazendo de forma criativa e inovadora e principalmente mantendo um clima de total confiança.",
-		"Sonorização de eventos, equipamentos de som para eventos.",
-		"Charco & Jr Eventos é uma empresa de dj, som e iluminação, feita sob medida para atender seus fiéis clientes de forma diferenciada e personalizada, sempre preocupada com todos os detalhes, individualizando-o em um estreito relacionamento, satisfazendo de forma criativa e inovadora e principalmente mantendo um clima de total confiança.",
-		"Sonorização de eventos, equipamentos de som para eventos."
+		"\n\t\t\t\t\t\t\t\t\tCharco & Jr Eventos é uma empresa de dj, som e iluminação, feita sob medida para atender seus fiéis clientes de forma diferenciada e personalizada, sempre preocupada com todos os detalhes, individualizando-o em um estreito relacionamento, satisfazendo de forma criativa e inovadora e principalmente mantendo um clima de total confiança.\n\t\t\t\t\t\t\t\t",
+		"\n\t\t\t\t\t\t\t\t\tSonorização de eventos, equipamentos de som para eventos.\n\t\t\t\t\t\t\t\t",
+		"\n\t\t\t\t\t\t\t\t\tCharco & Jr Eventos é uma empresa de dj, som e iluminação, feita sob medida para atender seus fiéis clientes de forma diferenciada e personalizada, sempre preocupada com todos os detalhes, individualizando-o em um estreito relacionamento, satisfazendo de forma criativa e inovadora e principalmente mantendo um clima de total confiança.\n\t\t\t\t\t\t\t\t",
+		"\n\t\t\t\t\t\t\t\t\tSonorização de eventos, equipamentos de som para eventos.\n\t\t\t\t\t\t\t\t"
+	],
+	"depoimento": [
+		[
+			{
+				"foto": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample3.jpg",
+				"nome": " asdfsadf",
+				"instagram": " LIttleSnippets.net"
+			}
+		],
+		[
+			{
+				"foto": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample3.jpg",
+				"nome": " asdfsadf",
+				"instagram": " LIttleSnippets.net"
+			}
+		]
 	]
 }
