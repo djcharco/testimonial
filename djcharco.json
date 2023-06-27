@@ -52,5 +52,19 @@
 				"description": "asdfasdfsdfs asdfas sadf asdf  asdfasdf as"
 			}
 		]
+	],
+	"collection": [
+		{
+			"collection": "img/gallery-img-01.jpg",
+			"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@2fcfc3a73b9e2d16d31f590d1020320320a1203e/images/eu%20tennis.jpg"
+		},
+		{
+			"collection": "img/gallery-img-01.jpg",
+			"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@c52d68ddf72c616c2aa017b93bc1baad0dbe3ebb/images/Diablo_IV_Logo2.jpg"
+		},
+		{
+			"collection": "img/gallery-img-01.jpg",
+			"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@f8d662cd030ead4fa34f90f78e56ba9e01f90667/images/Diablo_IV_Logo.jpg"
+		}
 	]
 }
