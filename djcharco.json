@@ -1,0 +1,53 @@
+{
+	"header": {
+		"whats": "(11) 98704-6930",
+		"phone": [
+			"(11) 98704-693 - Dj Charco",
+			"(11) 98704-693 - Dj Charco"
+		],
+		"email": [
+			"contato@charcosom.com.br",
+			"contato@charcosom.com.br"
+		]
+	},
+	"banner2": [
+		"Utilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.",
+		"Utilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ.",
+		"Utilizamos caixas de som de vários tamanhos e várias potências, mesas digitais, microfones Shure e Sennheiser, processador de Áudio e equipamentos para DJ."
+	],
+	"banner1": [
+		"Charco & Jr Eventos é uma empresa de dj, som e iluminação, feita sob medida para atender seus fiéis clientes de forma diferenciada e personalizada, sempre preocupada com todos os detalhes, individualizando-o em um estreito relacionamento, satisfazendo de forma criativa e inovadora e principalmente mantendo um clima de total confiança.",
+		"Sonorização de eventos, equipamentos de som para eventos.",
+		"Charco & Jr Eventos é uma empresa de dj, som e iluminação, feita sob medida para atender seus fiéis clientes de forma diferenciada e personalizada, sempre preocupada com todos os detalhes, individualizando-o em um estreito relacionamento, satisfazendo de forma criativa e inovadora e principalmente mantendo um clima de total confiança.",
+		"Sonorização de eventos, equipamentos de som para eventos."
+	],
+	"depoimento": [
+		[
+			{
+				"description": "Declaração que, feita pela testemunha ou para a parte interessada no processo, serve como prova: ",
+				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@30a8ab7cc2138ce2f4ebf35ce6946e7d74267a3b/images/YoutubeCard.png",
+				"nome": "Lilith",
+				"instagram": "@diablo4"
+			},
+			{
+				"description": "In promotion and advertising, a testimonial or show consists of a person's written or spoken statement extolling the virtue of a produ",
+				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@9d2cab4ea71f4833c06806e49b99702fcb2c14d7/images/YoutubeCard-molqarth.png",
+				"nome": "Astaroth",
+				"instagram": "@d4"
+			},
+			{
+				"description": "testimonial n, (recommendation) (comprovar declaração), testemunho sm. The estate agent's website has lots of testimonials. testimonial n, (tribute to [sb testimonial n, (recommendation) (comprovar declaração), testemunho sm. The estate agent's website has lots of testimonials. testimonial n, (tribute to [sb] testimonial n, (recommendation) (comprovar declaração), testemunho sm. The estate agent's website has lots of testimonials. testimonial n, (tribute to [sb]  testimonial n, (recommendation) (comprovar declaração), testemunho sm. The estate agent's website has lots of testimonials. testimonial n, (tribute to [sb] ",
+				"foto": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@7c99b6860a268398c0c2ef482b480897d5b000ac/images/Taissa%20Gatona.png",
+				"nome": "Taissa",
+				"instagram": "@maga"
+			}
+		],
+		[
+			{
+				"foto": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample3.jpg",
+				"nome": " asdfsadf",
+				"instagram": " LIttleSnippets.net"
+			}
+		]
+	]
+}
