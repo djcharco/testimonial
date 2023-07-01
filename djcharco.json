@@ -52,5 +52,15 @@
 				"description": "asdfasdfsdfs asdfas sadf asdf  asdfasdf as"
 			}
 		]
-	]
+	],
+	"galeria": {
+		"photos": [
+			{
+				"photo": "img/gallery-img-01.jpg"
+			},
+			{
+				"photo": "img/gallery-img-02.jpg"
+			}
+		]
+	}
 }
