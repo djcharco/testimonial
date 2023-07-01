@@ -60,6 +60,24 @@
 			},
 			{
 				"photo": "img/gallery-img-02.jpg"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@2a29bf9116ed933c23d3d440779ce5c5ea511345/images/card-youtube.png"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@93e81c1f02a93428da142ae7eeb3e78beba47b8b/images/Diablo_IV_Logo2.jpg"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@a19bcd364ae9f15dc9f71782fccf1f3894cc55df/images/eu%20tennis.jpg"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@991774171965d3eae653a37756efe76a524f7420/images/logo%20diablo%204.png"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@b550cbccb2c285a3164e72031d8db530005937b0/images/logo_apple_vetor.png"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@f400cfcdda4580b99d0c4ea57bfe1734e2adc0a8/images/news-google.jpg"
 			}
 		]
 	}
