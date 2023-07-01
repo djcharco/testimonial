@@ -52,51 +52,5 @@
 				"description": "asdfasdfsdfs asdfas sadf asdf  asdfasdf as"
 			}
 		]
-	],
-	"galeria": {
-		"collection": [
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@d6de7c3a439c13fa09f31e16765e096701ce2f88/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			},
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@1bb95ba57e0b47d613c26235b375a8c5f76b54b6/images/card-youtube.png"
-			}
-		]
-	}
+	]
 }
