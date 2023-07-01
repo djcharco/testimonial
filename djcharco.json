@@ -1,4 +1,4 @@
-{
+ {
 	"header": {
 		"whats": "(11) 98704-6930",
 		"phone": [
@@ -56,10 +56,10 @@
 	"galeria": {
 		"photos": [
 			{
-				"photo": "img/gallery-img-01.jpg"
+				"photo": "https://static.photocdn.pt/images/articles/2018/12/05/articles/2017_8/beginner_photography_mistakes-1.webp"
 			},
 			{
-				"photo": "img/gallery-img-02.jpg"
+				"photo": "https://images.unsplash.com/photo-1554080353-a576cf803bda?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
 			},
 			{
 				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@2a29bf9116ed933c23d3d440779ce5c5ea511345/images/card-youtube.png"
