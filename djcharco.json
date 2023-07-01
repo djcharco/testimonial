@@ -52,15 +52,5 @@
 				"description": "asdfasdfsdfs asdfas sadf asdf  asdfasdf as"
 			}
 		]
-	],
-	"galeria": {
-		"collection": [
-			{}
-		],
-		"slick-slide00": [
-			{
-				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@eb65871c9a01c60107c11ee98231e543b7d51671/images/card-youtube.png"
-			}
-		]
-	}
+	]
 }
