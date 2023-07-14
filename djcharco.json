@@ -150,9 +150,16 @@
 			],
 			[
 				{
-					"video": "NjeKo26pR28"
+					"video": "NjeKo26pR28",
+					"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@84df816c6ef37e19fe4f16a6720bf795e44a62c8/images/dj2.png"
 				}
-			]
+			],
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@4ed07bd03b2ebc7c074f7b51ca860069ec0818d3/images/dj3.jpg"
+			},
+			{
+				"photo": "https://cdn.jsdelivr.net/gh/djcharco/testimonial@7050743db07781a473c476f902ef5e743fe71125/images/YoutubeCard.png"
+			}
 		]
 	},
 	"apresentacao": "https://www.youtube.com/watch?v=NjeKo26pR28?autoplay=1&mute=1&loop=1&color=black&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1",
